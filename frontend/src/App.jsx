@@ -5,7 +5,6 @@ import JobList from './pages/JobList';
 import JobCreate from './pages/JobCreate';
 import JobEdit from './pages/JobEdit';
 import JobDetail from './pages/JobDetail';
-import Footer from './components/Footer';
 import './App.css';
 
 function App() {
